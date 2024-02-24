@@ -6,4 +6,4 @@ Actor-level characteristics are presented in artists_2012_2020.csv. Gender is co
 
 Please cite this dataset as McMillan, C. (2022). “Who run the world?” Gender and the social network of R&B/hip hop collaboration from 2012 to 2020. _Applied Network Science_, 7(1), 1-20.
 
-Link to article: https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00485-9 
+Link to open access article: https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00485-9 
